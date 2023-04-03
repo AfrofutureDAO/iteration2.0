@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
+name: AfrofutureDAO issue template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: Mykhel-Otugoh, dadaboipelo, mrbrookg
 
 ---
 
